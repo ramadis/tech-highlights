@@ -7,7 +7,7 @@ Highlights for the technologies used in [Wolox](http://www.wolox.com.ar)
 
 1. Fork it
 2. Create your "feature" branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
+3. Edit the file that matches your technology (e.g. [ANGULAR.md](ANGULAR.md)) and commit your changes (`git commit -am 'Add some feature'`)
 7. Push your branch (`git push origin my-new-feature`)
 8. Create a new Pull Request
 
