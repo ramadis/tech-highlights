@@ -1,7 +1,7 @@
 Wolox Tech Highlights
 ======================
 
-Highlights for the technologies used in [Wolox](http://www.wolox.com.ar)
+Highlights for the technologies used at[Wolox](http://www.wolox.com.ar)
 
 ## Contributing
 
